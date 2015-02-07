@@ -1,9 +1,9 @@
 #Hive
-'''Hive info'''
 
-##Hive DDL
+Message below
+
+###Hive DDL
 Informaiton 
-'More Info'
-'''Some more Info'''
 
-##Hive DML
+
+###Hive DML
